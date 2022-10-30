@@ -1,0 +1,7 @@
+.metadata
+bin/
+local.properties
+.settings/
+/JRE System Library [JavaSE-17]
+/JavaFX SDK
+/JavaFX
